@@ -1,1 +1,1 @@
-C:\Users\LAMC\Desktop\Estructuras de Datos\Third_Assignment\02 - Pilas con Pointers\Debug\02 - Pilas con Pointers.exe
+C:\Users\LAMC\Desktop\02 - Pilas con Pointers\Debug\02 - Pilas con Pointers.exe
